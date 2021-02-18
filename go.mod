@@ -1,4 +1,4 @@
-module simpleforce
+module github.com/paul-at-nangalan/simpleforce
 
 go 1.14
 
